@@ -2,10 +2,12 @@
 
 This is my personal portfolio in making
 
-For now, I know:
+I know:
 
 1. HTML
 1. CSS
 1. JavaScript
-1. repl.it
+1. React 
 1. git and github
+
+I have enlisted the projects made by me and the blogs I wrote on this website.
