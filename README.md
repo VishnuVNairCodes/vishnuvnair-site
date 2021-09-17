@@ -1,6 +1,6 @@
 # Vishnu V Nair's Portfolio
 
-This is my personal portfolio in making
+This is my personal portfolio website
 
 I know:
 
